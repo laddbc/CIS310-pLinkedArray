@@ -1,0 +1,23 @@
+#+STARTUP: showall
+#+TITLE: pLinkedArray Starter Code
+#+SUBTITLE: CIS 310: Operating Systems
+#+AUTHOR: Brian C. Ladd
+#+DATE: Fall 2020
+
+* Starter Code for the First Program
+
+* To build
+#+BEGIN_SRC bash
+$ make
+#+END_SRC
+
+* To run
+#+BEGIN_SRC bash
+$ build/stringCmdShell
+...
+#+END_SRC
+
+* To clean up artifacts (for clean build to follow)
+#+BEGIN_SRC bash
+$ make clean
+#+END_SRC
